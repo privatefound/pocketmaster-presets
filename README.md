@@ -61,4 +61,4 @@ Released under the [MIT License](LICENSE): free to use, share and modify.
 
 ---
 
-If these presets helped you, leave a ⭐ on the repo!
+If these presets helped you, leave a ⭐ on the repo pls!
