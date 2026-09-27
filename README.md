@@ -21,6 +21,7 @@ Download them, load them, play. And if the tone you want isn't here yet, **just 
 | [`MarkKnopfler.prst`](presets/MarkKnopfler.prst) | Mark Knopfler | Clean / slightly driven, Dire Straits vibe |
 | [`PinkFloyd.prst`](presets/PinkFloyd.prst) | Pink Floyd (David Gilmour) | Ambient lead, delay & sustain |
 | [`Santana.prst`](presets/Santana.prst) | Carlos Santana | Singing lead, warm overdrive |
+| [`SweetChild.prst`](presets/SweetChild.prst) | Guns N' Roses – *Sweet Child O' Mine* (Slash) | Hard rock lead, warm high gain |
 | [`Vicarious.prst`](presets/Vicarious.prst) | Tool – *Vicarious* | Heavy, tight drop-tuned riffing |
 
 > 💡 Tip: tweak **volume and gain** to match your guitar. Single coils and humbuckers react very differently, so treat these as a starting point.
