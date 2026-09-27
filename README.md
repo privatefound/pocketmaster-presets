@@ -13,11 +13,15 @@ Download them, load them, play. And if the tone you want isn't here yet, **just 
 | [`ACDC.prst`](presets/ACDC.prst) | AC/DC | Hard rock, crunchy rhythm |
 | [`Blink182.prst`](presets/Blink182.prst) | Blink-182 | Pop punk, high gain |
 | [`ChetAtkins.prst`](presets/ChetAtkins.prst) | Chet Atkins | Country / fingerstyle, clean |
+| [`ChooseyLvr.prst`](presets/ChooseyLvr.prst) | The Isley Brothers – *Choosey Lover* (Ernie Isley) | Soul / funk lead, fuzzy & smooth |
 | [`ChuckBerry.prst`](presets/ChuckBerry.prst) | Chuck Berry | Rock 'n' roll, light breakup |
+| [`FrayedEnds.prst`](presets/FrayedEnds.prst) | Metallica – *The Frayed Ends of Sanity* | Thrash metal, tight high gain |
 | [`JamesBurton.prst`](presets/JamesBurton.prst) | James Burton | Chicken picking, bright clean |
+| [`LittleWing.prst`](presets/LittleWing.prst) | Jimi Hendrix – *Little Wing* | Clean / edge of breakup, chorded lead |
 | [`MarkKnopfler.prst`](presets/MarkKnopfler.prst) | Mark Knopfler | Clean / slightly driven, Dire Straits vibe |
 | [`PinkFloyd.prst`](presets/PinkFloyd.prst) | Pink Floyd (David Gilmour) | Ambient lead, delay & sustain |
 | [`Santana.prst`](presets/Santana.prst) | Carlos Santana | Singing lead, warm overdrive |
+| [`Vicarious.prst`](presets/Vicarious.prst) | Tool – *Vicarious* | Heavy, tight drop-tuned riffing |
 
 > 💡 Tip: tweak **volume and gain** to match your guitar. Single coils and humbuckers react very differently, so treat these as a starting point.
 
@@ -27,8 +31,10 @@ Download them, load them, play. And if the tone you want isn't here yet, **just 
 
 1. Download the `.prst` file you want from the [`presets/`](presets/) folder (or clone the whole repo).
 2. Connect your Pocket Master and open the official Pocket Master app.
-3. Import the `.prst` file and save it to a free slot.
+3. Import the `.prst` file and save it to a free **P** slot (see note below).
 4. Plug in and play!
+
+> ⚠️ **Important:** presets can only be imported into the **user configs whose name starts with `P`** on the Pocket Master. Pick a `P` slot as the destination.
 
 ---
 
